@@ -1,2 +1,7 @@
-# buttonsapp
-Buttons for ODEUM CodeJS
+# Buttons for ODEUM CodeJS
+
+A demo Electron App with buttons for ODEUM CodeJS.
+
+Repository used for test deployment and distribution.
+
+
